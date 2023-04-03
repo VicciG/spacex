@@ -1,0 +1,16 @@
+.title {
+  color: white;
+  margin: 0;
+  line-height: 1.15;
+  font-size: 4rem;
+  padding: 20px;
+}
+
+.titleBar {
+  width: 100%;
+  background-color: black;
+}
+
+.cardsContainer {
+  padding: 10px;
+}
